@@ -88,7 +88,7 @@
               "color": "#55b4d4"
             },
             ".mbr-text, .mbr-section-btn B": {
-              "color": "#ff7f9f"
+              "color": "#55b4d4"
             }
           },
           "_name": "header2",

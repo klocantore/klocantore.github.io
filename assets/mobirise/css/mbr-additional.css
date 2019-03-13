@@ -23,10 +23,10 @@ body {
 }
 .display-1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 1.8rem;
+  font-size: 3.4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 5.44rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -63,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 0.96rem;
@@ -1399,6 +1399,9 @@ body {
 }
 .cid-rkfK3DLDQT {
   background-image: url("../../../assets/images/screen-shot-2019-03-09-at-12.02.21-pm-1436x1028.png");
+}
+.cid-rkCJ10xvsA {
+  background-image: url("../../../assets/images/screen-shot-2019-03-12-at-11.55.32-pm-1270x1016.png");
 }
 .cid-rklSy0meko {
   background-image: url("../../../assets/images/screen-shot-2019-03-12-at-11.55.32-pm-1270x1016.png");

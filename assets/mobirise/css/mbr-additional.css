@@ -23,17 +23,17 @@ body {
 }
 .display-1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 3.8rem;
+  font-size: 3.4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.08rem;
+  font-size: 5.44rem;
 }
 .display-2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 1.92rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -44,17 +44,17 @@ body {
 }
 .display-5 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -63,14 +63,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -661,13 +661,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1415,7 +1415,7 @@ body {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.37.42-pm-1444x1014.png");
 }
 .cid-rliHEWa2N0 {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.42.12-pm-1482x1012.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.10.44-pm-1396x1012.png");
 }
 .cid-rliJVkAPph {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.45.07-pm-1170x1004.png");
@@ -1440,10 +1440,10 @@ body {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.19.25-pm-1684x1036.png");
 }
 .cid-rliqa2C2zX {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.26.43-pm-1646x1032.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.14.23-pm-1330x976.png");
 }
 .cid-rlitbJQ4xD {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.38.40-pm-1506x1026.png");
+  background-image: url("../../../assets/images/parlaiment-fire-1442x982.png");
 }
 .cid-rhYKKQy35m {
   background-image: url("../../../assets/images/dsc01512-2000x1500.jpg");
@@ -1963,7 +1963,7 @@ body {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.26.05-pm-1392x1024.png");
 }
 .cid-rliurEz5IZ {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.45.38-pm-1648x1034.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-10.48.33-am-1450x1026.png");
 }
 .cid-rkmDPegcK4 {
   background-image: url("../../../assets/images/screen-shot-2019-03-10-at-5.23.25-pm-1826x970.png");
@@ -1971,17 +1971,39 @@ body {
 .cid-rkmDPegcK4 SPAN {
   color: #ff7f9f;
 }
+.cid-rltxh5kLbt {
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-12.01.34-pm-1352x990.png");
+}
+.cid-rltxh5kLbt .mbr-text,
+.cid-rltxh5kLbt .mbr-section-btn {
+  color: #000000;
+}
+.cid-rliv918Uht {
+  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.48.05-pm-1646x1032.png");
+}
+.cid-rliv918Uht .mbr-text,
+.cid-rliv918Uht .mbr-section-btn P {
+  color: #ffffff;
+}
 .cid-rlioZZSvuL {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.22.44-pm-1418x1034.png");
 }
-.cid-rlirHDNnLx {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.35.08-pm-1584x1016.png");
+.cid-rlu2a3aNKr {
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-2.08.18-pm-1230x768.png");
+}
+.cid-rlu2a3aNKr .mbr-text,
+.cid-rlu2a3aNKr .mbr-section-btn {
+  color: #232323;
 }
 .cid-rlirHIl57U {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.40.00-pm-980x766.png");
 }
-.cid-rliv918Uht {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.48.05-pm-1646x1032.png");
+.cid-rlirHIl57U .mbr-text,
+.cid-rlirHIl57U .mbr-section-btn {
+  color: #232323;
+}
+.cid-rlirHDNnLx {
+  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.35.08-pm-1584x1016.png");
 }
 .cid-rlq9caLMZg {
   background-image: url("../../../assets/images/screen-shot-2019-03-21-at-10.10.52-pm-1628x1020.png");
@@ -2003,14 +2025,14 @@ body {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.42.12-pm-1482x1012.png");
 }
 .cid-rlpWjnSwwm {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.10.44-pm-1396x1012.png");
+  background-image: url("../../../assets/images/basilica-of-constantine-rome-1600x1018.png");
 }
 .cid-rlpWjnSwwm H3 {
   color: #f7ed4a;
   text-align: center;
 }
 .cid-rlpWeKQtVy {
-  background-image: url("../../../assets/images/screen-shot-2019-03-20-at-3.37.42-pm-1444x1014.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-10.57.45-am-1612x1016.png");
 }
 .cid-rlpWeKQtVy .mbr-text,
 .cid-rlpWeKQtVy .mbr-section-btn {
@@ -2030,14 +2052,14 @@ body {
   background-image: url("../../../assets/images/screen-shot-2019-03-22-at-1.50.48-am-1284x1014.png");
 }
 .cid-rlr4nlA26U {
-  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-1.57.25-am-798x884.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-11.30.00-am-1454x1036.png");
 }
 .cid-rlr4nlA26U .mbr-text,
 .cid-rlr4nlA26U .mbr-section-btn {
   color: #f9ed2a;
 }
 .cid-rlr4mwvHmT {
-  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-1.58.48-am-828x920.png");
+  background-image: url("../../../assets/images/screen-shot-2019-03-22-at-11.33.54-am-1454x1024.png");
 }
 .cid-rlr4mwvHmT .mbr-text,
 .cid-rlr4mwvHmT .mbr-section-btn {

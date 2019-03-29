@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.76rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -661,13 +661,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.76rem;
 }
 .form-control,
 .form-control:focus {
@@ -1423,6 +1423,9 @@ body {
 }
 .cid-rklSy0meko H1 {
   color: #ff3366;
+}
+.cid-rm7S72ccOx {
+  background-image: url("../../../assets/images/screen-shot-2019-03-27-at-12.20.38-pm-1384x1020.png");
 }
 .cid-rlinSdeicU {
   background-image: url("../../../assets/images/screen-shot-2019-03-20-at-2.19.25-pm-1684x1036.png");
